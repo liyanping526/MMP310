@@ -1,0 +1,26 @@
+body{
+    width:80%;
+    margin:0 auto;
+    background-color: cadetblue;
+    color:white;
+    font-family: monospace;
+}
+h1{
+    font-size:5em;
+}
+
+p{
+    font-size:3em;
+}
+li a{
+    text-decoration: none;
+    font-size:2em;
+    color:floralwhite;
+    padding:10px;
+}
+ul {
+    margin-bottom: 40px;
+}
+img{
+    width:100%;
+}

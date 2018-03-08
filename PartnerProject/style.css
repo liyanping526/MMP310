@@ -1,0 +1,36 @@
+html { 
+  background: url(images/bg.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+body{
+	/*width:80%;*/
+	margin:0 auto;
+	color:darkred;
+	text-align: center;
+	border:solid black 1px;
+	
+}
+/*#container{
+	background-color:pink;
+}
+*/p{
+	font-size:7em;
+}
+select {
+	font-size: 40px;
+	margin-bottom: 30px;
+
+}
+#qOneBtn{
+	font-size:30px;
+	border-radius: 6px;
+	background-color:#33C3F0;
+	color:white;
+}
+ #qThree {
+	display: none;
+}
