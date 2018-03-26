@@ -1,0 +1,57 @@
+body{
+    text-align: center;
+    background-color: floralwhite;
+}
+#start{
+    background-color: #00a2d5;
+    color:white;
+    border-radius: 20px;
+    margin-top: 30px;
+    padding:15px;
+    font-size: 3em;
+}
+#q1,#q2, #q3, #q4, #q5, #q6, #q7, #q8{
+    display: none;
+}
+#box img:hover {
+    cursor: pointer;
+    margin-top: 30px;
+/*    opacity: 0.7;*/
+    transform: scale(1.10);
+}
+img.slide {
+	max-width: 250px;
+}
+#button4 {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+}
+#sweet, #sour, #spicy, #mild{
+
+    width: 80px;
+    height: 50px;
+    border-radius: 5px;
+    margin: 10px 10px 10px 10px;
+    font-size: 11px;
+}
+#sweet{
+    background-color: pink;
+}
+#sour{
+    background-color: greenyellow;
+}
+#spicy{
+    background-color: red;
+}
+#mild{
+    background-color: floralwhite;
+}
+#brownRice, #whiteRice, #greenSalad, #pasta, #tea, #coffee, #wine, #water {
+
+    width: 80px;
+    height: 50px;
+    border-radius: 5px;
+    margin: 10px 10px 10px 10px;
+    font-size: 11px;
+    background-color: white;
+}
